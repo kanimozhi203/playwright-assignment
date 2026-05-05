@@ -23,6 +23,4 @@ Features Covered
 - Data-driven testing
 - Cross-browser testing
 
-## ▶️ How to Run Tests
 
-Install dependencies:
